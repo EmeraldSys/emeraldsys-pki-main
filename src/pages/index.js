@@ -1,9 +1,13 @@
 import * as React from "react"
 import "../styles/index.css"
+import { Helmet } from "react-helmet"
 
 const IndexPage = () => {
   return (
       <main>
+        <Helmet>
+          <title>EmeraldSys PKI</title>
+        </Helmet>
         <header className="mainHeader">
           <div className="alignHeader">
             <div className="mainHeaderContainer alignHeader">
