@@ -68,7 +68,7 @@ const IndexPage = () => {
         <section />
         <footer className="mainFooter">
           <div>
-            <p align="center" style={{ marginTop: "50px", verticalAlign: "middle", color: "rgba(255, 255, 255, 50%)" }}>Copyright &copy; 2021 EmeraldSys. All rights reserved.</p>
+            <p align="center" style={{ marginTop: "50px", verticalAlign: "middle", color: "rgba(255, 255, 255, 50%)" }}>Copyright &copy; 2022 EmeraldSys. All rights reserved.</p>
           </div>
         </footer>
       </main>
