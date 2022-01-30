@@ -13,7 +13,7 @@ const IndexPage = () => {
             <div className="mainHeaderContainer alignHeader">
               <div className="mainHeaderLinks">
                 <a href="/">
-                  <img src="https://emeraldsys.github.io/images/company2_banner_white.png" alt="Logo" style={{ height: "50px" }} />
+                  <img src="https://edge.cdn.emeraldsys.xyz/internal/assets/emeraldsys_new_nobg.png" alt="Logo" style={{ height: "50px" }} />
                 </a>
                 <span style={{ fontSize: "30px", marginBottom: "5px" }}>PKI</span>
                 <ul className="mainHeaderRefs">
