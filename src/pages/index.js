@@ -21,7 +21,7 @@ const IndexPage = () => {
                     <a href="https://docs.pki.emeraldsys.xyz">Documentation</a>
                   </li>
                   <li className="mainHeaderRef">
-                    <a href="https://account.pki.emeraldsys.xyz">Dashboard</a>
+                    <a href="https://dash.pki.emeraldsys.xyz">Dashboard</a>
                   </li>
                 </ul>
               </div>
